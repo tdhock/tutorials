@@ -1,0 +1,16 @@
+#+TITLE: List of teaching by Toby Dylan Hocking
+
+| Subject                                  | Where      | When      |
+|------------------------------------------+------------+-----------|
+| Testing on Travis and CRAN               |            |           |
+| [[https://github.com/tdhock/regex-tutorial][Named capture regular expressions]]        | McGill     | Oct 2015  |
+| [[https://github.com/tdhock/animint-tutorial][Animated, interactive data visualization]] | McGill     | July 2015 |
+| [[https://github.com/tdhock/datatable-foverlaps][Computing overlapping genomic regions]]    | [[http://www.monbug.ca/][MonBUG]]     | June 2015 |
+| [[https://github.com/tdhock/when-c][C/C++ code with R/Python]]                 | McGill     | Oct 2014  |
+| Makefiles [[https://github.com/tdhock/makefile-slides/raw/master/HOCKING-makefiles.pdf][PDF]] [[https://github.com/tdhock/makefile-slides][source]] [[http://sugiyama-www.cs.titech.ac.jp/~toby/org/HOCKING-Makefiles.html][org]]                 | McGill     | Feb 2014  |
+| [[https://github.com/tdhock/graphics-tutorial][Graphics for publication]]                 | Tokyo Tech | 2013      |
+| [[http://sugiyama-www.cs.titech.ac.jp/~toby/papers/2012-03-28-Recent-advances-in-direct-labeled-graphics/2012-03-29-HOCKING-directlabels-semin-r.pdf][Direct labeled graphics]]                  | [[http://rug.mnhn.fr/semin-r/][Semin-R]]    | 2012      |
+| [[http://sugiyama-www.cs.titech.ac.jp/~toby/papers/2011-06-09-R-package-development-presentations-for-IBL/2011-06-09-HOCKING-R-Forge.pdf][R-Forge]]                                  | [[https://wikis.univ-lille1.fr/bilille/ingenieurs][IBL]]        | 2011      |
+| [[http://sugiyama-www.cs.titech.ac.jp/~toby/papers/2011-06-09-R-package-development-presentations-for-IBL/2011-06-09-HOCKING-inlinedocs.pdf][Documentation generation in R]]            | [[https://wikis.univ-lille1.fr/bilille/ingenieurs][IBL]]        | 2011      |
+| [[http://sugiyama-www.cs.titech.ac.jp/~toby/org/HOCKING-emacs-ess-R.html][Emacs Speaks Statistics]]                  |            |           |
+| [[http://sugiyama-www.cs.titech.ac.jp/~toby/org/HOCKING-reproducible-research-with-R.html][Reproducible computations]]                |            |           |
