@@ -3,6 +3,8 @@
 | Subject                                  | Where      | When      |
 |------------------------------------------+------------+-----------|
 | Testing on Travis and CRAN               |            |           |
+| Optimal segmentation                     |            |           |
+| Over- and Under-fitting                  |            |           |
 | [[https://github.com/tdhock/regex-tutorial][Named capture regular expressions]]        | McGill     | Oct 2015  |
 | [[https://github.com/tdhock/animint-tutorial][Animated, interactive data visualization]] | McGill     | July 2015 |
 | [[https://github.com/tdhock/datatable-foverlaps][Computing overlapping genomic regions]]    | [[http://www.monbug.ca/][MonBUG]]     | June 2015 |
