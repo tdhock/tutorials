@@ -11,11 +11,11 @@
 
 *** Data visualization
 
-| Subject                                       | Where      |      When |
-|-----------------------------------------------+------------+-----------|
-| [[https://github.com/tdhock/animint-tutorial][Animated, interactive data visualization]]      | McGill     | July 2015 |
-| [[https://github.com/tdhock/graphics-tutorial][Graphics for publication]]                      | Tokyo Tech |      2013 |
-| [[http://sugiyama-www.cs.titech.ac.jp/~toby/papers/2012-03-28-Recent-advances-in-direct-labeled-graphics/2012-03-29-HOCKING-directlabels-semin-r.pdf][Direct labeled graphics]]                       | [[http://rug.mnhn.fr/semin-r/][Semin-R]]    |      2012 |
+| Subject                                  | Where      |      When |
+|------------------------------------------+------------+-----------|
+| [[https://github.com/tdhock/animint-tutorial][Animated, interactive data visualization]] | McGill     | July 2015 |
+| [[http://sugiyama-www.cs.titech.ac.jp/~toby/org/HOCKING-graphics-tutorial.html][Publication-quality graphics]] ([[https://github.com/tdhock/graphics-tutorial][source]])    | Tokyo Tech |      2013 |
+| [[http://sugiyama-www.cs.titech.ac.jp/~toby/papers/2012-03-28-Recent-advances-in-direct-labeled-graphics/2012-03-29-HOCKING-directlabels-semin-r.pdf][Direct labeled graphics]]                  | [[http://rug.mnhn.fr/semin-r/][Semin-R]]    |      2012 |
 
 *** Programming for data analysis
 
