@@ -21,7 +21,7 @@
 
 | Subject                                 | Where   | When     |
 |-----------------------------------------+---------+----------|
-| GitHub                                  |         |          |
+| [[https://github.com/tdhock/github-tutorial][GitHub]]                                  |         |          |
 | Testing on Travis and CRAN              |         |          |
 | [[https://github.com/tdhock/mclapply-memory][Memory benchmarking, parallel computing]] | MTLData | Oct 2015 |
 | [[https://github.com/tdhock/regex-tutorial][Named capture regular expressions]]       | McGill  | Oct 2015 |
