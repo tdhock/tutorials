@@ -24,8 +24,8 @@ Last updated 25 Oct 2016.
 
 | Subject                                 | Where   | When     |
 |-----------------------------------------+---------+----------|
+| [[https://github.com/tdhock/idioms][Idioms]]                                  |         |          |
 | [[https://github.com/tdhock/github-tutorial][GitHub]]                                  |         |          |
-| Testing on Travis and CRAN              |         |          |
 | [[https://github.com/tdhock/mclapply-memory][Memory benchmarking, parallel computing]] | MTLData | Oct 2015 |
 | [[https://github.com/tdhock/regex-tutorial][Named capture regular expressions]]       | McGill  | Oct 2015 |
 | [[https://github.com/tdhock/when-c][C/C++ code with R/Python]]                | McGill  | Oct 2014 |
