@@ -25,18 +25,17 @@ Last updated 25 Oct 2016.
 
 | Subject                                 | Where   | When     |
 |-----------------------------------------+---------+----------|
-| [[https://github.com/tdhock/intro-R-criminology][Intro to R for criminology]]              | UdeM    | Mar 2017 |
 | [[https://github.com/tdhock/idioms][Idioms]]                                  |         |          |
 | [[https://github.com/tdhock/github-tutorial][GitHub]]                                  |         |          |
+| [[https://github.com/tdhock/intro-R-criminology][Intro to R for criminology]]              | UdeM    | Mar 2017 |
+| [[http://members.cbio.ensmp.fr/~thocking/org/HOCKING-reproducible-research-with-R.html][Reproducible computations]] ([[https://github.com/tdhock/works-poster][poster]])      | [[http://schedule.user2016.org/event/7Gxq/reproducible-research-workswithr][useR]]    | 2016     |
 | [[https://github.com/tdhock/mclapply-memory][Memory benchmarking, parallel computing]] | MTLData | Oct 2015 |
 | [[https://github.com/tdhock/regex-tutorial][Named capture regular expressions]]       | McGill  | Oct 2015 |
 | [[https://github.com/tdhock/when-c][C/C++ code with R/Python]]                | McGill  | Oct 2014 |
-| Makefiles [[https://github.com/tdhock/makefile-slides/raw/master/HOCKING-makefiles.pdf][PDF]] [[https://github.com/tdhock/makefile-slides][source]] [[http://sugiyama-www.cs.titech.ac.jp/~toby/org/HOCKING-Makefiles.html][org]]                | McGill  | Feb 2014 |
-| [[http://sugiyama-www.cs.titech.ac.jp/~toby/papers/2011-06-09-R-package-development-presentations-for-IBL/2011-06-09-HOCKING-R-Forge.pdf][R-Forge]]                                 | [[https://wikis.univ-lille1.fr/bilille/ingenieurs][IBL]]     | 2011     |
-| [[http://sugiyama-www.cs.titech.ac.jp/~toby/papers/2011-06-09-R-package-development-presentations-for-IBL/2011-06-09-HOCKING-inlinedocs.pdf][Documentation generation in R]]           | [[https://wikis.univ-lille1.fr/bilille/ingenieurs][IBL]]     | 2011     |
+| Makefiles [[https://github.com/tdhock/makefile-slides/raw/master/HOCKING-makefiles.pdf][PDF]] [[https://github.com/tdhock/makefile-slides][source]]                    | McGill  | Feb 2014 |
+| [[http://members.cbio.mines-paristech.fr/~thocking/papers/2011-06-09-R-package-development-presentations-for-IBL/2011-06-09-HOCKING-R-Forge.pdf][R-Forge]]                                 | [[https://wikis.univ-lille1.fr/bilille/ingenieurs][IBL]]     | 2011     |
+| [[http://members.cbio.mines-paristech.fr/~thocking/papers/2011-06-09-R-package-development-presentations-for-IBL/2011-06-09-HOCKING-inlinedocs.pdf][Documentation generation in R]]           | [[https://wikis.univ-lille1.fr/bilille/ingenieurs][IBL]]     | 2011     |
 | [[http://cbio.ensmp.fr/~thocking/mines-course/2011-04-01-svm/Mines-Intro-To-R.html][R basics]]                                | [[http://cbio.ensmp.fr/~thocking/mines-course/Mines-ParisTech-machine-learning-projects.html][Mines]]   | 2011     |
-| [[http://sugiyama-www.cs.titech.ac.jp/~toby/org/HOCKING-emacs-ess-R.html][Emacs Speaks Statistics]]                 |         |          |
-| [[http://sugiyama-www.cs.titech.ac.jp/~toby/org/HOCKING-reproducible-research-with-R.html][Reproducible computations]]               |         |          |
 
 *** Bioinformatics
 
