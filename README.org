@@ -5,6 +5,7 @@
 | Subject                                       | Where | When |
 |-----------------------------------------------+-------+------|
 | Optimal segmentation and Hidden Markov Models |       |      |
+| [[https://github.com/tdhock/change-tutorial][Introduction to optimal changepoint detection]] | [[http://user2017.brussels/][useR]]  | 2017 |
 | [[http://cbio.ensmp.fr/~thocking/mines-course/2011-05-13-clustering/2011-05-13-clustering.html][Clustering and model selection]]                | [[http://cbio.ensmp.fr/~thocking/mines-course/Mines-ParisTech-machine-learning-projects.html][Mines]] | 2011 |
 | [[http://cbio.ensmp.fr/~thocking/mines-course/2011-04-29-graphical-models/graphical-models.html][Graphical models (k-means, GMMs, HMMs, EM)]]    | [[http://cbio.ensmp.fr/~thocking/mines-course/Mines-ParisTech-machine-learning-projects.html][Mines]] | 2011 |
 | [[http://cbio.ensmp.fr/~thocking/mines-course/2011-04-01-svm/svm-qp.pdf][Support Vector Machines (QP solver)]]           | [[http://cbio.ensmp.fr/~thocking/mines-course/Mines-ParisTech-machine-learning-projects.html][Mines]] | 2011 |
@@ -21,6 +22,7 @@
 
 | Subject                                 | Where   | When     |
 |-----------------------------------------+---------+----------|
+| [[https://github.com/tdhock/intro-R-criminology][Intro to R for criminology]]              | UdeM    | Mar 2017 |
 | [[https://github.com/tdhock/idioms][Idioms]]                                  |         |          |
 | [[https://github.com/tdhock/github-tutorial][GitHub]]                                  |         |          |
 | [[https://github.com/tdhock/mclapply-memory][Memory benchmarking, parallel computing]] | MTLData | Oct 2015 |
