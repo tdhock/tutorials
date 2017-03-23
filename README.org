@@ -1,6 +1,6 @@
 #+TITLE: List of teaching by Toby Dylan Hocking
 
-Last updated 25 Oct 2016.
+Last updated 22 Mar 2017.
 
 *** Machine learning
 
